@@ -14,5 +14,8 @@ The report includes multiple analytical views such as Overview, Product, Campaig
 The goal is to transform raw data into actionable insights that support data-driven decision-making and highlight key business drivers.
  
  
- 
-   
+ 2. European_ecommerce_fashion v2: https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset?select=dataset_fashion_store_customers.csv
+
+The objective of this project was to transform raw transactional data into meaningful insights by applying data cleaning, transformation, and modeling techniques based on a star schema. The analysis focuses on key business areas including sales performance, product trends, campaign effectiveness, and customer behavior. Core metrics such as Total Revenue, Number of Orders, Average Order Value (AOV), Profit, and Revenue per Customer were built using DAX to support accurate and dynamic reporting.
+
+The final dashboard is structured into multiple analytical views, including Sales Overview, Product Analysis, Campaign & Discount Analysis, and Customer Analysis. It incorporates advanced Power BI features such as bookmarks, buttons, navigation, and custom tooltips to enhance interactivity and user experience. Key insights highlight differences between high-revenue and high-value markets, the impact of discount strategies on customer behavior, and variations in product performance across categories. This project demonstrates the full BI workflow—from data preparation to storytelling—and showcases the ability to deliver actionable insights through a clean and professional dashboard.
